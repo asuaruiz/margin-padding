@@ -1,0 +1,7 @@
+div {
+	width: 200px;
+	height: auto;
+	border:solid rgb(235,132,89);
+	padding: 0 10px 10px 10px;
+	margin: 10px;	
+}
